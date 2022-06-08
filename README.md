@@ -1,3 +1,3 @@
-# EduBridge-Assesment \n
-## Assignment -The solutions for Week Assignments given By the Domain trainer. \n
-## Problems -The solutions for problems given during the sessions. \n
+# EduBridge-Assignment 
+#### [Assignment](https://github.com/knavee12345/EduBridge-Assignment/tree/main/Assignment) -The solution for Week Assignments.
+#### [Problems](https://github.com/knavee12345/EduBridge-Assignment/tree/main/Problems) -The solution for problems given during the sessions.
